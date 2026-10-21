@@ -413,3 +413,5 @@ https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e
 https://live-manifest.production-public.tubi.io/live/001d9604-4483-4da4-9504-dc20fa2cd168/playlist.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
